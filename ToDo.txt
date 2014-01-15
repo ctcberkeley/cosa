@@ -1,0 +1,11 @@
+Things to Do:
+
+1. Finish the officer pictures and bios, I did the first half of what you sent but I think it would be a good idea for you to do some so you know how to modify it if needed. The instructions should be pretty clear within the comments of the about.html page. 
+
+2. Links for the contact info in the footer, I've included links to email and facebook (you need to fill in the urls), more can be added by copy/pasting 
+
+3. Change the flickr photostream, this can be done by finding the flickr id of your account (http://idgettr.com/) and the specific set (the setID is in the URL) that you want, change the values in the file "script.js" under the "js" folder.
+
+4. Set up a google calendar. I think the best way to do this would be to create a google account for COSA for emails and events, and use this guide: https://support.google.com/calendar/answer/41207?hl=en to get the right url for the calendar (change the URL on the calendar.html page) 
+
+5. Host it, if you need help with this let me know but it should just be a function of copying all the files in this folder ("css", "img", "js" folders and all HTML files) onto the host server (I think you guys have an OCF server)
